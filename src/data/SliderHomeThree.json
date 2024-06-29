@@ -1,0 +1,25 @@
+{
+  "SliderHomeThree": [
+    {
+      "id": 1,
+      "img": "/assets/img/bg/hero-bg-3.jpg",
+      "description": "ADVOKAT TEPIĆ",
+      "title1": "Vaš partner u pravnim pitanjima:",
+      "title2": " Pomažemo Vam da donesete prave odluke"
+    },
+    {
+      "id": 2,
+      "img": "/assets/img/bg/hero-bg-3.1.jpg",
+      "description": "ADVOKAT TEPIĆ",
+      "title1": "Stručnost koja pravi razliku:",
+      "title2": " Pravna rešenja prilagođena vašim potrebama"
+    },
+    {
+      "id": 3,
+      "img": "/assets/img/bg/hero-bg-3.2.jpg",
+      "description": "ADVOKAT TEPIĆ",
+      "title1": "Pravna rješenja za uspjeh:",
+      "title2": " Gradimo povjerenje kroz posvećenost i rezultate"
+    }
+  ]
+}
